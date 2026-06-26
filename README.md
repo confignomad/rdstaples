@@ -1,6 +1,5 @@
 # Hi, I'm Config Nomad
 
-Senior Network Automation Engineer with 30+ years in enterprise networking.
 Exploring the intersection of networking, automation, and AI.
 
 ## Areas of Interest
